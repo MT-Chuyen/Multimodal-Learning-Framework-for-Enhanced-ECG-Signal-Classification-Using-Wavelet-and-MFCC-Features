@@ -2,6 +2,9 @@
 
 Authors: Assoc. Prof. Vu-Anh Tran, Chuyen-Tat Mai, Anh-Thi Diem Nguyen
 
+## Individual role
+_I served as the team leader. I significantly contributed to the success of this study. The development and testing of the multimodal framework were guided by my key ideas, such as proposing improvements to the original BiLSTM network, integrating MFCC features to improve accuracy and robustness, and incorporating multimodal learning framework by incorporating wavelet processing in parallel. I was instrumental in the coding and implementation, I undertook responsibilities in dataset preprocessing, MFCC and Wavelet feature engineering, model construction to implement parallel streaming of data, model choice, training and evaluation in various scenarios including "BiLSTM only," "BiLSTM + Wavelet," "BiLSTM + MFCCs," and "BiLSTM + Wavelet and MFCCs in parallel." I also led the integration of various CNN and BiLSTM backbone models. I participated actively in writing the research manuscript._
+
 ## Project Goals:
 
 **Problem Statement:** Accurate classification of cardiac arrhythmias is crucial for managing cardiac disorders, but manual analysis of ECG data is challenging due to limited expertise and the volume of data.
@@ -70,5 +73,4 @@ Authors: Assoc. Prof. Vu-Anh Tran, Chuyen-Tat Mai, Anh-Thi Diem Nguyen
 
 **Comparison to strategy:** The model were trained in several strategies, then the accuracy of different model strategies were compared, and the best model was chose
 
-## Individual role
-_I significantly contributed to the success of this study. The development and testing of the multimodal framework were guided by my key ideas, such as proposing improvements to the original BiLSTM network, integrating MFCC features to improve accuracy and robustness, and incorporating multimodal learning framework by incorporating wavelet processing in parallel. I was instrumental in the coding and implementation, I undertook responsibilities in dataset preprocessing, MFCC and Wavelet feature engineering, model construction to implement parallel streaming of data, model choice, training and evaluation in various scenarios including "BiLSTM only," "BiLSTM + Wavelet," "BiLSTM + MFCCs," and "BiLSTM + Wavelet and MFCCs in parallel." I also led the integration of various CNN and BiLSTM backbone models. I participated actively in writing the research manuscript._
+
