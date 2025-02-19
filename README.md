@@ -2,8 +2,6 @@
 
 Authors: Assoc. Prof. Vu-Anh Tran, Chuyen-Tat Mai, Anh-Thi Diem Nguyen
 
-Okay, I've read the paper, here's a breakdown:
-
 ## Project Goals:
 
 **Problem Statement:** Accurate classification of cardiac arrhythmias is crucial for managing cardiac disorders, but manual analysis of ECG data is challenging due to limited expertise and the volume of data.
